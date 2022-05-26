@@ -9,7 +9,7 @@ import traceback
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
 print('''
-Подпишись на мой канал! t.me/weaknessinjection
+ПРИВЕТ ОТ ХАПА ПИДАРАСЫ
 ''')
 TOKEN = input('Введите токен вашего бота: ')
 
